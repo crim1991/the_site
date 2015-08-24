@@ -7,5 +7,7 @@
 </head>
 <body>
 	<h1>The best way is development...</h1>
+	<p>What a beautyfull day :)</p>
+	<p>But, you know...</p>
 </body>
 </html>
